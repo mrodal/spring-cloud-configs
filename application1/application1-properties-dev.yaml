@@ -1,3 +1,4 @@
 name: application1
+
 profiles:
   active: dev
