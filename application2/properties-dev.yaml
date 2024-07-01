@@ -1,0 +1,3 @@
+name: application2
+profiles:
+  active: dev
